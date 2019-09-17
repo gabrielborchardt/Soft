@@ -61,7 +61,7 @@ namespace Api.CalculaJuros.Controllers
         {
             try
             {
-                return Ok("https://github.com/gabrielborchardt");
+                return Ok("https://github.com/gabrielborchardt/Soft");
             }
             catch (System.Exception ex)
             {

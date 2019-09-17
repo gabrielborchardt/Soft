@@ -13,7 +13,7 @@ namespace Tdd.CalculaJuros
     public class JurosTest
     {
         private readonly ServiceSettings _serviceSettings;
-        private readonly string _myGitHub = "https://github.com/gabrielborchardt";
+        private readonly string _myGitHub = "https://github.com/gabrielborchardt/Soft";
 
         public JurosTest()
         {
